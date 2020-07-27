@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+}
+
+
+.bak {
+    background-color: mediumvioletred;
+
+}
+
+.abc {
+    background-color: yellowgreen;
+
+}
+
+.abs {
+    background-color: skyblue;
+}
+
+.bak,
+.abc,
+.abs {
+    border-radius: 10px;
+    padding: 10px 30px;
+}
